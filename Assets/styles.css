@@ -1,62 +1,73 @@
 /* Style sheet added to polish Weather dashboard page */
 body {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 16px;
-      }
-    .weatherHeader {
-        background-image: linear-gradient(to right,  #3f4ba5, #36368b, #261360);
-        color: white;
-        font-weight: bolder;
-        text-align: center;
-        padding: 0.6%;
-    }  
-    .mainDisplay {
-        margin-top: 1%;
-    }
-    #searchDisplayText {
-        font-weight: bolder;
-    }
-    .searchValues {
-        width: 99%;
-        padding: 2%;
-        margin-top: 1%;
-        border-radius: 5px;
-    }
-    #searchWeather {
-        background-color: #6991e3;
-        color: white;
-        margin-top: 3%;
-    }
-    #viewCityWeatherDiv {
-        border: 1px solid black;
-        margin-bottom: 2%;
-        background-color: #323d4f;
-        color: white;
-        padding: 1%;
-    }
-    .hide{
-        display: none;
-    }
-    .show {
-        display: block;
-    }
-    .bolder {
-        font-weight: bolder;
-    }
-    .futureforecast {
-        background-color: #323d4f;
-        padding: 2%;
-        color: white;
-        margin: 1%;
-        
-    }
-    .cityName {
-        background-color: #aeaeae;
-        background-color: #aeaeae;
-        color: black;
-        font-weight: bold;
-        padding: 2%;
-        margin: 1%;
-        border-radius: 4px;
-        border: none;
-    }
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+.weatherHeader {
+    background-image: linear-gradient(to right, #3f4ba5, #36368b, #261360);
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    padding: 0.6%;
+}
+
+.mainDisplay {
+    margin-top: 1%;
+}
+
+#searchDisplayText {
+    font-weight: bolder;
+}
+
+.searchValues {
+    width: 99%;
+    padding: 2%;
+    margin-top: 1%;
+    border-radius: 5px;
+}
+
+#searchWeather {
+    background-color: #6991e3;
+    color: white;
+    margin-top: 3%;
+}
+
+#viewCityWeatherDiv {
+    border: 1px solid black;
+    margin-bottom: 2%;
+    background-color: #323d4f;
+    color: white;
+    padding: 1%;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.bolder {
+    font-weight: bolder;
+}
+
+.futureforecast {
+    background-color: #323d4f;
+    padding: 2%;
+    color: white;
+    margin: 1%;
+
+}
+
+.cityName {
+    background-color: #aeaeae;
+    background-color: #aeaeae;
+    color: black;
+    font-weight: bold;
+    padding: 2%;
+    margin: 1%;
+    border-radius: 4px;
+    border: none;
+}
