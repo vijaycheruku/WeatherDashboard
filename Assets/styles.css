@@ -36,7 +36,7 @@ body {
 #viewCityWeatherDiv {
     border: 1px solid black;
     margin-bottom: 2%;
-    background-color: #323d4f;
+    background-color: #6f89b3f0;
     color: white;
     padding: 1%;
 }
@@ -54,7 +54,7 @@ body {
 }
 
 .futureforecast {
-    background-color: #323d4f;
+    background-color: #6f89b3f0;
     padding: 2%;
     color: white;
     margin: 1%;
